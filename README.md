@@ -69,9 +69,8 @@ Notes:
 
 ## Live Demo
 
-![Live Demo](https://ai-proposal-writer-aetherion-labs.netlify.app/proposals)
+https://ai-proposal-writer-aetherion-labs.netlify.app/proposals 
 
----
 
 ## Acknowledgements
 
@@ -79,5 +78,7 @@ Special thanks to the BizBot team for their technical support and assistance.
 
 **BizBot — AI fully automatically promotes your project**  
 Official Website: http://bizbot.zvo.cn
+
+---
 
 Powered by Aetherion Labs
